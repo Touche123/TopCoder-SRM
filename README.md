@@ -1,4 +1,4 @@
 TopCoder-SRM
 ============
 
-Srm's
+This is to challenge myself to code everyday.
