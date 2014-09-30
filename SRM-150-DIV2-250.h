@@ -20,12 +20,8 @@ public:
                 totalRepairDays++;
                 temp -= numPerDay;
             }
-
-
             temp = 0;
         }
-
         return totalRepairDays;
     }
-
 };
